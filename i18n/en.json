@@ -1,0 +1,51 @@
+{
+  "导航": [
+    "Home",
+    "About Us",
+    "Services",
+    "Contact"
+  ],
+  "滚屏": [
+    {
+      "大字": "Shofun International",
+      "小字": "Become the most trusted and sustainable freight forwarder for customers."
+    },
+    {
+      "大字": "YOUR TRUSTWORTHY GLOBAL LOCAL PARTNER, TO GROW ON MUTUAL BENEFIT IS OUR MISSION.",
+      "小字": ""
+    },
+    {
+      "大字": "EASY-SHIPPING, GLOBAL KNOWLEDGE AND EXPERT ADVICE TO HELP YOUR BUSINESS SHIP INTERNATIONALLY BY SEA & AIR",
+      "小字": ""
+    },
+    {
+      "大字": "SERVE UNDER PROMISE, DELIVER BEYOND EXPECTATION.",
+      "小字": ""
+    }
+  ],
+  "关于我们": "About Us",
+  "公司简介": "A persone who loves Nature and It's creations",
+  "详情标题": "My Passion",
+  "公司详情": "Lorem ipsum dolor sit amet, quo meis voluptaria, erant bonorum albucius et per, ei placerat eu, te eos porro veniam. An everti maiorum detracto mea. Eu eos dicam voluptaria, erant bonorum albucius et per, ei sapientem accommodare est. Saepe dolorum constituam ei vel. Te sit malorum ceteros repudiandae, ne tritani adipisci vis. <br/> Lorem ipsum dolor sit amet, voluptaria, erant bonorum albucius et per, ei meis audire placerat eu, te eos porro veniam. An everti maiorum detracto mea. Lorem ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci ipsum gravida tortor orci ipsum gravida tortor.",
+  "公司优势": [
+    "Consectetur Morbi sagittis, sem quisci ipsum gravida tortor",
+    "Sagittis, sem quis lacinia faucibus, orci ipsum gravida",
+    "Ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci"
+  ],
+  "服务范围": "My Skills",
+  "服务简介": "Lorem ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci ipsum",
+  "服务项目": [
+    {"名称": "Photography", "介绍": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "},
+    {"名称": "Editing Skills", "介绍": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."},
+    {"名称": "Lighting", "介绍": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."},
+    {"名称": "Dimensions", "介绍": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."}
+  ],
+  "联系我们": "Contact Us",
+  "联系简介": "Lorem ipsum dolor sit amet, consectetur Morbi sagittis, sem quisci ipsum",
+  "联系地址": "UNIQUE Infoway",
+  "地址内容": "104, Some street, NewYork, USA",
+  "联系电话": "call us",
+  "电话内容": "+86 1312345678",
+  "电子邮箱": "Email us",
+  "邮箱地址": "support@sitename.com"
+}
